@@ -1,4 +1,4 @@
-# Use the official PHP 7.4 image from Docker Hub
+# Use the official PHP 8.2 image from Docker Hub
 FROM php:8.2-fpm
 
 # Install necessary PHP extensions
