@@ -3,7 +3,6 @@ services:
   app:
     build:
       context: .
-      target: php
     environment:
       SERVICE_NAME: app
       SERVICE_TAGS: dev
